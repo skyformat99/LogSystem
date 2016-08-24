@@ -1,0 +1,13 @@
+﻿  logExport.cpp
+d:\myproject\logsytem缓冲模式\logsytem\Mutex.h(42): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\myproject\logsytem缓冲模式\logsytem\Condition.h(34): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+    正在创建库 D:\MyProject\LogSytem缓冲模式\x64\Release\LogSytem.lib 和对象 D:\MyProject\LogSytem缓冲模式\x64\Release\LogSytem.exp
+  正在生成代码
+d:\myproject\logsytem缓冲模式\logsytem\logexport.cpp(65): warning C4715: “CheckWriteLogLevel”: 不是所有的控件路径都返回值
+d:\myproject\logsytem缓冲模式\logsytem\logexport.cpp(59): warning C4715: “GetWriteLogLevel”: 不是所有的控件路径都返回值
+  6 of 420 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    5 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LogSytem.vcxproj -> D:\MyProject\LogSytem缓冲模式\x64\Release\LogSytem.dll
+  LogSytem.vcxproj -> D:\MyProject\LogSytem缓冲模式\x64\Release\LogSytem.pdb (Full PDB)

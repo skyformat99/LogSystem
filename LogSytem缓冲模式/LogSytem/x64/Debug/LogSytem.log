@@ -1,0 +1,13 @@
+﻿  AsyncLog.cpp
+d:\myproject\logsytem缓冲模式\logsytem\mutex.h(42): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\myproject\logsytem缓冲模式\logsytem\condition.h(34): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+d:\myproject\logsytem缓冲模式\logsytem\asynclog.cpp(12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\myproject\logsytem缓冲模式\logsytem\bufferl.h(47): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  d:\myproject\logsytem缓冲模式\logsytem\bufferl.h(46): note: 编译类 模板 成员函数“int BufferL<4000000>::length(void)”时
+  d:\myproject\logsytem缓冲模式\logsytem\asynclog.cpp(72): note: 参见对正在编译的函数 模板 实例化“int BufferL<4000000>::length(void)”的引用
+  d:\myproject\logsytem缓冲模式\logsytem\asynclog.cpp(8): note: 参见对正在编译的类 模板 实例化“BufferL<4000000>”的引用
+d:\myproject\logsytem缓冲模式\logsytem\bufferl.h(28): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  d:\myproject\logsytem缓冲模式\logsytem\bufferl.h(27): note: 编译类 模板 成员函数“int BufferL<4000000>::unuse(void)”时
+  d:\myproject\logsytem缓冲模式\logsytem\asynclog.cpp(21): note: 参见对正在编译的函数 模板 实例化“int BufferL<4000000>::unuse(void)”的引用
+  LogSytem.vcxproj -> D:\MyProject\LogSytem缓冲模式\x64\Debug\LogSytem.dll
+  LogSytem.vcxproj -> D:\MyProject\LogSytem缓冲模式\x64\Debug\LogSytem.pdb (Partial PDB)
